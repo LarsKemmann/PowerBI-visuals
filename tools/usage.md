@@ -32,7 +32,7 @@ You can easily test your visual live in reports and dashboards in the PowerBI se
 
 ### Running your visual
 
-To run your visual navigate to the root of your visual project (the directory containing `pbiviz.json`) and type `pbiviz start` to build and serve the visual.
+To run your visual, navigate to the root of your visual project (the directory containing `pbiviz.json`). Here, you will need to run two commands. First, type `npm install` to download and install the required dependencies for the visual. Next, type `pbiviz start` to build and serve the visual.
 
 ![](images/pbivizStart.png)
 
